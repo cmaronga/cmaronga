@@ -9,7 +9,7 @@ Here, I host and share a range of code and data products. Feel free to explore, 
 Below is a list of notable GitHub repos that might interest you; but you are welcome to explore the rest for sure.
 
 
-| Title                                                                                                                                          | Description                                                            |
+| Repository                                                                                                                                          | Description                                                            |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
 | [shiny.appsHub](https://github.com/cmaronga/shiny.appsHub)| A collection authored shiny applications, some as old as 5 years. More details on the repo README |
 |[NHSR-databases-with-R](https://github.com/cmaronga/NHSR-databases-with-R) | Materials for workshop delivered at NHS-R conference. Video available in [youtube](https://youtu.be/htQWauSV9J4?si=4GCfnhletirZ2ZC2) | 
